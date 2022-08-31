@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **personal projects**
 
-- 🌱 I’m currently learning **React Native and Node.js**
+- 🌱 I’m currently learning **Vue js**
 
 - 👨‍💻 All of my projects are available at [github](https://github.com/JohonMarques)
 
@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **johonblk@gmail.com**
 
-- ⚡ Fun fact **I love lord of the rings and mistborn books**
+- ⚡ Fun fact **I love lord of the rings and mistborn books also love tabletop rpg**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
